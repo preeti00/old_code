@@ -8,7 +8,7 @@ public class Test1 {
 	private static final Logger logger = LoggerFactory.getLogger(Test1.class);
 	
 	public void getDetails() {
-		logger.info("getDetails");
+		logger.info("getDetails 2");
 	}
 
 }
